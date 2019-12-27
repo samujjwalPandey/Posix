@@ -1,0 +1,20 @@
+image dimensions 100x72,,,373842
+Time elapsed was 373842ns or 0.000373842s,,,206062
+image dimensions 100x72,,,210044
+Time elapsed was 206062ns or 0.000206062s,,,302104
+image dimensions 100x72,,,262514
+Time elapsed was 210044ns or 0.000210044s,,,225052
+image dimensions 100x72,,,353736
+Time elapsed was 302104ns or 0.000302104s,,,354893
+image dimensions 100x72,,,246864
+Time elapsed was 262514ns or 0.000262514s,,,301130
+image dimensions 100x72,,Average value=,283624.1
+Time elapsed was 225052ns or 0.000225052s,,,
+image dimensions 100x72,,,
+Time elapsed was 353736ns or 0.000353736s,,,
+image dimensions 100x72,,,
+Time elapsed was 354893ns or 0.000354893s,,,
+image dimensions 100x72,,,
+Time elapsed was 246864ns or 0.000246864s,,,
+image dimensions 100x72,,,
+Time elapsed was 301130ns or 0.000301130s,,,
